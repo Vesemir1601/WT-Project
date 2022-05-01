@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(19, 18, 18);
+    color: rgb(246, 242, 242);
+    padding: 20px 100px;
+    box-sizing: border-box;
+    line-height: 3em;
+}
+h1{ margin-top: 4em; 
+    color:whitesmoke;
+    text-align: center;
+    font-size: 8em;
+}
+h2 {
+    color: goldenrod;
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 5em;
+    font-family: 'PT Sans', sans-serif;
+}
+h3 {
+   color:royalblue;
+}
+h4 {
+    font-size: 2.3em;
+    padding: 20px 0px;
+    text-align: center;
+    font-family: 'PT Sans', sans-serif;
+}
+
+p {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.inner {
+     border: 2px solid white;
+     padding:1.5em 3em;
+     margin : 3em 0;
+     line-height: 1.5em;
+     font-size:1.1em;
+     font-family: 'Prompt', sans-serif;
+}
+.main {
+    margin: 100px 20px; 
+    border:0;
+}
+.navbar {
+    font-size: 1.3em;
+}
